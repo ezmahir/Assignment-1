@@ -2,3 +2,42 @@
     margin: 0;
     padding: 0;
 }
+.azeret-mono {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.header{
+    background-image: url('../assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hero-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 48px;
+    font-weight: 800;
+}
+.hero-subtitle{
+    color: rgba(13, 19, 33, 1);
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+.hero-btn{
+    color: #FFFFFF;
+    padding: 21px 24px;
+    background-color: rgba(13, 19, 33, 1);
+    border-radius: 8px;
+    margin-top: 32px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    font-weight: 600;
+}
