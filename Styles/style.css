@@ -116,19 +116,9 @@
     justify-content: space-around;
     padding: 32px;
 }
-/* .youtube{
-    display: flex;
-    justify-content: center;
-} */
-/* .you-title{
-    color: rgba(13, 19, 33, 1);
-    font-size: 32px;
-    font-weight: 800;
-    margin-bottom: 24px;
-} */
- .mct{
+.mct{
     margin-top: 150px;
- }
+}
 #skills-container{
     margin-top: 48px;
     justify-content: center;
@@ -175,17 +165,27 @@
 }
 #ta{
     border-radius: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 0.4);
+    
 }
 .last-btn{
     padding: 17px 20px;
     border-radius: 8px;
     background-color: #FFFFFF;
+    border: none;
+    color: #0D1321;
+    font-weight: 600;
 }
 #last-foot{
     padding: 32px 150px;
     background-color: rgba(13, 19, 33, 0.03);
     display: flex;
     justify-content: space-between;
+}
+#vid{
+    margin-top: 50px;
 }
 .ii{
     display: flex;
