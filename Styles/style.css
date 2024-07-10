@@ -116,3 +116,22 @@
     justify-content: space-around;
     padding: 32px;
 }
+/* .youtube{
+    display: flex;
+    justify-content: center;
+} */
+/* .you-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+} */
+#pod{
+    margin-bottom: 48px;
+}
+#vid{
+    margin: 48px;
+    border-radius: 16px;
+    border: 1px solid black;
+    padding: 10px;
+}
