@@ -134,6 +134,7 @@
     justify-content: center;
     display: flex;
     gap: 24px;
+    margin-bottom: 111px;
 }
 .skill{
     padding: 40px;
@@ -164,4 +165,35 @@
     color: black;
     font-size: 16px;
     font-weight: 700;
+}
+.foot{
+    padding: 64px 48px;
+    margin: 0 150px;
+    background-image: url("../assets/handshake.jpg");
+    border-radius: 16px;
+    margin: 80px;
+}
+#ta{
+    border-radius: 8px;
+}
+.last-btn{
+    padding: 17px 20px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+}
+#last-foot{
+    padding: 32px 150px;
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
+}
+.ii{
+    display: flex;
+}
+#lf{
+    font-size: 20px;
+    font-weight: 600;
+}
+#icon{
+    margin: 0 24px;
 }
