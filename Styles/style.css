@@ -126,12 +126,42 @@
     font-weight: 800;
     margin-bottom: 24px;
 } */
-#pod{
-    margin-bottom: 48px;
+ .mct{
+    margin-top: 150px;
+ }
+#skills-container{
+    margin-top: 48px;
+    justify-content: center;
+    display: flex;
+    gap: 24px;
 }
-#vid{
-    margin: 48px;
+.skill{
+    padding: 40px;
     border-radius: 16px;
-    border: 1px solid black;
-    padding: 10px;
+}
+.skill-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.skill-description{
+    margin-bottom: 24px;
+}
+#h{
+    background-color: rgba(255, 76, 30, 0.05);
+}
+#c{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+#j{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+#i{
+    margin-bottom: 24px;
+}
+.hl{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
 }
